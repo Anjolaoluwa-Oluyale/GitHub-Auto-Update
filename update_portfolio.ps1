@@ -10,6 +10,7 @@ Set-Location -Path $repoPath
 git config --global user.name "Anjolaoluwa-Oluyale"
 git config --global user.email "anjolaoluyale@gmail.com"
 
+
 # Pull the latest changes (if any)
 git pull origin main
 
